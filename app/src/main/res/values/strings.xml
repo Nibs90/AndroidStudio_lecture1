@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lecture 1 App</string>
+    <string name="enter_a_1number">Enter a Number</string>
+    <string name="enter_a_2number">Enter a Number</string>
+    <string name="add">ADD</string>
+    <string name="result">Result</string>
+</resources>
